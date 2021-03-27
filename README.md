@@ -4,7 +4,7 @@ Acesse Trilhar - Casa de Passagem
 
 ## 💻 Sobre o sistema
 
-Esse projeto é um software criado para a informatização da Casa de Passagem Acesse Trilhar de Poços de Caldas.
+**Esse é um projeto de código privado.** Consiste em um software criado para a informatização da Casa de Passagem Acesse Trilhar de Poços de Caldas.
 
 
 O sistema foi desenvolvido durante o projeto de extensão oferecido pelo Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais no campus de Poços de Caldas.
